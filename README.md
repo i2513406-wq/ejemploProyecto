@@ -1,2 +1,2 @@
 # ejemploProyecto
-mi primer commit Ezau
+commit Ezau
